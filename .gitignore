@@ -35,8 +35,8 @@ wp-config.php
 # htaccess
 /.htaccess
 
-# htaccess
-/credencial.txt/
+# credencial
+credencial.txt
 
 # All plugins
 #
